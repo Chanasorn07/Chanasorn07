@@ -18,5 +18,4 @@ Am a beginner programming
 
 <p align="left"> <a href="https://www.github.com/Chanasorn07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zbw76f5kmcrxmln43yfln6laha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zbw76f5kmcrxmln43yfln6laha&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)

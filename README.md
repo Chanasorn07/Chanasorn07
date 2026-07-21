@@ -6,8 +6,6 @@ Student of Computer Engineering at Rangsit U
 
 Am a beginner programming
 
-ผมคือโปรเเกรมเมอร์มือใหม่
-
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [chanasorn7423@gmail.com](mailto:chanasorn7423@gmail.com)
 * 🧠  I'm currently learning C, Html, Css, Java Script

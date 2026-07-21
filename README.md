@@ -21,4 +21,4 @@ Am a beginner programming
 <p align="left"> <a href="https://www.github.com/Chanasorn07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
 
-<P align="left"> <img src="https://i.pinimg.com/originals/ed/3c/6d/ed3c6d64f6741606912e58f685634f37.gif" alt="" width="500" height="250"></P>
+<P align="left"> <img src="https://i.pinimg.com/originals/ed/3c/6d/ed3c6d64f6741606912e58f685634f37.gif" alt="" width="700" height="350"></P>
